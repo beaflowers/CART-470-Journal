@@ -36,3 +36,12 @@ I'm feeling somewhat lost as to what steps to take going forward, with this grou
 - What graphical approach is envisioned? Are we working towards accessibility, therefore as little machine power as possible, or do we want to maximize visual effects such as reflections? 
 - If working in VR, which accessibility features do we want to incorporate? (camera rotation, greyscale/colorblind options, popup text, text to speech, etc)
 
+# Week 3 Journal
+
+23/9
+Alright, so, pretty excited that rather than picking a platform and running full tilt we get to explore different options and actually aid in research for AbTec. I'm going to focus on Godot, and help out in Unreal, and possibly Unity as well.
+
+We need many builds, but they don't necessarily have to do anything yet, they can just be static shots. So builds in Unity, Unreal, and Godot, plus web builds for Unity and Godot, plus VR builds for all three. It's a lot to do and probably going to be finicky - I haven't done any web builds before and I know it's going to be more finicky and annoying than I expect (and I guess I'm already expecting it).
+
+[Optimization Guide](https://best-games.io/blog/godot-web-export-optimization-guide) for starters. 
+
