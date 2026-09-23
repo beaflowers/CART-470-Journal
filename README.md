@@ -1,7 +1,7 @@
 # CART-470-Journal
 Weekly project design journal for CART 470 Capstone Project.
 
-#Week 2 Journal
+# Week 2 Journal
 So, we still don't know what we're doing. The meeting is soon, and that's okay that we don't know what we're doing yet.
 
 I'm really interested in trying to engage with decolonial principles for this project, since we're working with AbTec, and those being foundational principles that possibly rearrange even the basic assumptions we have about accessing space.
