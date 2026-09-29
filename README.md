@@ -45,3 +45,6 @@ We need many builds, but they don't necessarily have to do anything yet, they ca
 
 [Optimization Guide](https://best-games.io/blog/godot-web-export-optimization-guide) for starters. 
 
+29/9 
+We just got the 3d model files, so still not a lot to report for week 3 journal - I doubt I'm going to have time to dig into it more before Wednesday morning. Scant journal entry for scant work!!
+
