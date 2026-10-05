@@ -48,3 +48,18 @@ We need many builds, but they don't necessarily have to do anything yet, they ca
 29/9 
 We just got the 3d model files, so still not a lot to report for week 3 journal - I doubt I'm going to have time to dig into it more before Wednesday morning. Scant journal entry for scant work!!
 
+# Week 4 Journal
+
+Okay starting to dig into it now. I've never done a 3D project before, and I'm glad Godot makes it so easy - but it is funny things to remember, like having to click a random checkmark to make sure camera is "active". But I got the super basic model in there, visible, and it runs on the web, so we're making progress. I'd like to make it look much nicer. So much of initializing these projects as a group is figuring out what's Github and what's personal computer issues. These things have a mind of their own.
+
+I find navigating the 3D editing environment the hardest part lol. I got something looking pretty good and running in a web browser - haven't fully uploaded to itch.io or anything yet, but it's looking pretty decent! 
+
+Some things going on with the models - everything has overlapping vertices, which probably makes sense for having to import every piece in SecondLife, but doesn't fit or is excessive for a modern game engine. The meeting just got extended so it feels good to have a little more time, but I'm curious what we're going to have time to do the rest of the semester. 
+
+I looooooove Godot, I love the node/child relationships, navigating the menus is ok. I'd like to help out Nadia in Unreal some but it seems like that one is going chaotically. I'll ask though.
+
+It doesn't feel like there's a lot to particularly journal about since this is all very practical, and not much in terms of design or even creativity... It's menu and asset management, and not a lot of that even! 
+
+I'd also like to make a nice presentation of pros/cons for each platform. Feels a little tricky not knowing the best ways to fully utilize each platform. But honestly I'd be excited about pushing for Godot - I get that Unity is the standard right now, but I think the trend - especially in marginalized tech/creator spaces - is to move away from it because of its military connections and weird price fluctuations. Escape a little from the corporate yoke y'know? 
+
+Also more resources for myself: [For doing research with indigenous peoples](https://www.concordia.ca/about/community/resources/dewemaagannag-my-relations/indigenous-research-guide.html)
