@@ -63,3 +63,18 @@ It doesn't feel like there's a lot to particularly journal about since this is a
 I'd also like to make a nice presentation of pros/cons for each platform. Feels a little tricky not knowing the best ways to fully utilize each platform. But honestly I'd be excited about pushing for Godot - I get that Unity is the standard right now, but I think the trend - especially in marginalized tech/creator spaces - is to move away from it because of its military connections and weird price fluctuations. Escape a little from the corporate yoke y'know? 
 
 Also more resources for myself: [For doing research with indigenous peoples](https://www.concordia.ca/about/community/resources/dewemaagannag-my-relations/indigenous-research-guide.html)
+
+# Week 5 Journal
+
+Feeling really pleased with how the client meeting went. Was really exciting to present everything we learned, share our opinions and knowledge. It's not  "sharing high-tech options with low-tech people" - everyone at AbTec is quite technologically savvy - but they're savvy in ways that are different from the ways I (and the rest of my team) are, and it felt very cool to share skills and ideas on that level. They'd never heard of Godot, never worked in Unity, and had seen some things in Unreal.
+
+(My little Canva pressie, for posterity. Unreal stuff was all cut from it since it was on Nadia's PC. [Canva](https://canva.link/akx3fht18tt7qfj))
+
+I really like the things they're excited about - Skawennati wants to do a lush, high-end, private VR experience to happen in the black box down the hall, one that's private and intimate and takes people from here to another world, surrounded by other people. Nancy is prioritizing the web build for grant and accessibility reasons - some people can't see the gallery because they don't want to download something, so just being able to show them a link and allow them to explore from the browser is so cool. Both of these things are amazing ideas and each important in different ways for different reasons!!
+
+Appreciated also the push for fantastical interactions - something also artists exhibiting at AbTec are reminded of - this doesn't have to look/feel like a physical gallery. It exists in cyberspace and has the affordances of infinity. For my camera movement in Godot I tried to reflect this, giving a magical floaty go anywhere feeling to reflect the avatars flying around in Second Life unlimited by gravity.
+
+I think the big big question that was asked was how do these builds or this work go forward without us, the CART 470 group. Which is definitely something I think we are all thinking about - we know this is a temporary project and a gift towards the future of AbTec, we are not getting hired to maintain this in any way. Nancy made it clear that there are people who can work in the game engines or with Blender, but I want to prioritize ease of us for future creators and builders who I will probably never meet or talk to. Godot/Blender I think lends itself to that quite easily - saved Blender files are automatically synched into Godot - but maybe there are custom tools we can build in Godot to make everything super simple for someone new to that engine. 
+
+So moving forward - seems like web build in Godot and fancy Unreal build for VR? But waiting to hear more. Exciting!
+
