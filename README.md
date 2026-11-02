@@ -78,3 +78,16 @@ I think the big big question that was asked was how do these builds or this work
 
 So moving forward - seems like web build in Godot and fancy Unreal build for VR? But waiting to hear more. Exciting!
 
+# Week 6 Journal
+
+Another good meeting, this time the follow up / recap with Sabine. Appreciated the push towards documentation as a core part of this project - feels hugely important to me and aligned with values I have in my interactions with AbTec. Gift giving, of something actually useful, not just some convoluted techno babble. 
+
+I feel like I'm struggling to get the rest of my team to appreciate the importance of this... It now becomes a matter of social technology. Can't get people to commit to meetings so I can record what they're doing.. Restating our need for documentation of the process as well, but I know how hard that is to do - I've been working with Rilla and the MDM research group for long enough to understand that documentation and proper reflection takes an enourmous amount of time and effort to be done effectively. So I've tried to emphasize that people take time to do so, and if that comes at the expensve of other technical parts of the project, so be it - it'd be way beter to give them something useful and less polished than something incredibly well done but useless to anybody but the creators. 
+
+Nancy made specific asks around this too when we mentioned documentation to her - so it's also aligned with what the client wants! I'm trying to think of the best way to do it. Many, many screenshots and PDFs are nice, maybe it would be cool to have a video of some parts too. It's tricky yo think of the "how did I do this" when it's something that comes from mastery, so I hope I'm able to capture that somehow. 
+
+# Week 7 Journal
+
+Well, last night my computer decided to go kaput while I was in the kitchen making dinner. I cam back to a blank screen, it was non responsive for a long time, now it's al moving at an absolute snail's pace as I try and restore.... whatever is wrong. Truly unideal for my last month of school, but hopefully this can be resolved in a day or two..
+
+No progress with documentation :( Team members are all really busy and/or hospitalized (?!) and ofc health takes priority... But with dead computer and nothing to document I'm feeling a bit sluggish.... 
