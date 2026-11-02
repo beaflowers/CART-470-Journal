@@ -91,3 +91,5 @@ Nancy made specific asks around this too when we mentioned documentation to her 
 Well, last night my computer decided to go kaput while I was in the kitchen making dinner. I cam back to a blank screen, it was non responsive for a long time, now it's al moving at an absolute snail's pace as I try and restore.... whatever is wrong. Truly unideal for my last month of school, but hopefully this can be resolved in a day or two..
 
 No progress with documentation :( Team members are all really busy and/or hospitalized (?!) and ofc health takes priority... But with dead computer and nothing to document I'm feeling a bit sluggish.... 
+
+Oh I guess I worked on the presentation for the midterm since I can do that from my iPad on Canva. Lmao. Tweaked the presentation made for the AbTeC meeting to add stuff relevant to class, like background information and progress made since then. (Not much, though we are very well organized on our kanban and ready to go, it seems.)
