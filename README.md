@@ -93,3 +93,16 @@ Well, last night my computer decided to go kaput while I was in the kitchen maki
 No progress with documentation :( Team members are all really busy and/or hospitalized (?!) and ofc health takes priority... But with dead computer and nothing to document I'm feeling a bit sluggish.... 
 
 Oh I guess I worked on the presentation for the midterm since I can do that from my iPad on Canva. Lmao. Tweaked the presentation made for the AbTeC meeting to add stuff relevant to class, like background information and progress made since then. (Not much, though we are very well organized on our kanban and ready to go, it seems.)
+
+# Week 8
+I had the flu, and it was terrible. I walked to my front porch to get some sun and then had to nap for 3 hours. Brain deeply dysfunctional.
+
+# Week 9
+Got the Blender tutorial done!! Very helpful to sit next to Nadia and have her explain things, writing things down, asking things and recording the screen - and even with all of this, I was still looking up how to do specific things that happened, because trying to translate the native user to the new user actually requires so much effort to demystify. It’s amazing to have extremely talented and experienced people on the team and watch the ways they use things I’m unfamiliar with so smoothly. 
+
+Don’t really want to link it here since it’s in a drive and currently editable to anyone with the link, and while I doubt some nefarious person is reading through this random github journal I’m gonna opt for paranoia. But it’s got tons of screenshots and highlights and informative text. 
+
+Alex gave some incredible feedback, in that I wrote a tutorial that is very much follow steps 1. 2. 3 to use the kit to create modular gallery structures, but no explanation on what those commands are actually doing or how they could help people better understand the software or kit itself. Which I think is extremely true!!! However, /I/ have no idea what I’m doing - I’m able to follow this tutorial and that’s about it, honestly! So hopefully he is gonna add in some of that since he’s more familiar with Blender, which I’m stoked about.
+
+Got some Godot doc done but not much and really need to do my actual technical aspect of that (creating the interactive text pop ups) since that is a pretty key part of the gallery (a huge part of the Second Life gallery, reading the gallery descriptions and such.) I delved a bit into Godot’s 3D labels but haven’t delved much further into the activity, just the presentation itself and how to make it look a certain way.
+
